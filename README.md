@@ -1,2 +1,2 @@
 # Pure-CSS
-Mustache 
+Animated Mustache 
